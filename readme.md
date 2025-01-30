@@ -121,7 +121,7 @@ const TapNavigator = () => {
 - **Firebase Authentication:** Implementa el sistema de autenticación de Firebase para gestionar la seguridad de la aplicación.
 - **React Native Navigation Stack:** Gestiona la navegación entre pantallas.
 - **React Native Navigation Buttom tap:** Gestiona la navegación entre pestañas.
-- **Expo-Location:** Permite acceder y gestionar la ubicación del usuario.
+- **Expo-Location:** Permite acceder y gestionar la ubicación del usuario. (aclaro que utilice la API brindada por el profesor, ya que no poseo tarjeta de credito para generar la google api, pero entendi el proceso)
 - **Expo-Picker-Image:** Facilita la carga de imágenes de perfil.
 - **Redux:** Centraliza y gestiona el estado de la aplicación.
 - **RTK Query y Firebase:** Realiza operaciones de lectura/escritura en la base de datos.
