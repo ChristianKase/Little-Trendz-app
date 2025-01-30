@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "category": "Remeras",
+    "icon": "https://drive.google.com/uc?id=1LPA2_raJHgq0OGhD79d_y3R7hpxT60ud&export=download"
+  },
+  {
+    "id": 2,
+    "category": "Polos",
+    "icon": "https://drive.google.com/uc?id=1cW94FzMm-s3FvGg4x_V8M8Pf3bKe6nwE&export=download"
+  },
+
+  {
+    "id": 5,
+    "category": "Camperas",
+    "icon": "https://drive.google.com/uc?id=1ooE4IwkxncsfOIf3KnxkqjG56IkrgWyv&export=download"
+  },
+
+  {
+    "id": 3,
+    "category": "Vestidos",
+    "icon": "https://drive.google.com/uc?id=1c-tIpFO7DUO89DoSiaH24t34pjr0z7iH&export=download"
+  },
+  {
+    "id": 4,
+    "category": "Shorts",
+    "icon": "https://drive.google.com/uc?id=19gZdp55HrjUzY27IndOFIx-mRFpfiJ-N&export=download"
+  }
+]

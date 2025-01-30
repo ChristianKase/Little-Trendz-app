@@ -1,0 +1,196 @@
+  [
+    {
+      "id": 1,
+      "title": "Campera Elegant",
+      "description": "¡Con esta campera vas a lucir como un niño mayor!",
+      "price": 47,
+      "discountPercentage": 16,
+      "category": "Camperas",
+      "rating": 4.74,
+      "stock": 133,
+      "brand": "YIOSI",
+      "category2": "popular2",
+      "categories": "Camperas",
+      "colors": ["Blanco", "Negro", "Azul"],
+      "thumbnail": "https://drive.google.com/uc?id=1GFFXm5KSKZYrCHx4empoyAZtdNmjxGrY&export=download",
+      "images": [
+        "https://drive.google.com/uc?id=1GFFXm5KSKZYrCHx4empoyAZtdNmjxGrY&export=download",
+        "https://i.dummyjson.com/data/products/100/2.jpg",
+        "https://i.dummyjson.com/data/products/100/3.jpg",
+        "https://i.dummyjson.com/data/products/100/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Campera bonita",
+      "description": "Campera estilizada y practica, ¡Elegi tu color favorito!",
+      "price": 55,
+      "discountPercentage": 10,
+      "rating": 4.5,
+      "stock": 120,
+      "brand": "POLOBRAND",
+      "category2": "niñas2",
+      "categories": "Camperas",
+      "category": "Camperas",
+      "colors": ["Rojo", "Verde", "Gris"],
+      "thumbnail": "https://drive.google.com/uc?id=1DWjo8vk2oNFUc1fk27Rpu--AE0SYTB6R&export=download",
+      "images": [
+        "https://drive.google.com/uc?id=1DWjo8vk2oNFUc1fk27Rpu--AE0SYTB6R&export=download",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Short blue",
+      "description": "¡El mejor look moderno son unos buenos shorts!",
+      "price": 40,
+      "discountPercentage": 12,
+      "rating": 4.3,
+      "stock": 100,
+      "brand": "TRENDY",
+      "category2": "niños2",
+      "categories": "Shorts",
+      "category": "Shorts",
+      "colors": ["Amarillo", "Negro"],
+      "thumbnail": "https://drive.google.com/uc?id=1Re15C6eGcHNBvT9dqInLiv9_R2pvkmbs&export=download",
+      "images": [
+        "https://drive.google.com/uc?id=1Re15C6eGcHNBvT9dqInLiv9_R2pvkmbs&export=download",
+        "https://i.dummyjson.com/data/products/2/2.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Vestido puntos",
+      "description": "Vestido elegante para resaltar del resto",
+      "price": 120,
+      "discountPercentage": 15,
+      "rating": 4.8,
+      "stock": 80,
+      "brand": "ELITEWEAR",
+      "category2": "popular2",
+      "categories": "Vestidos",
+      "category": "Vestidos",
+      "colors": ["Rosa", "Azul Marino"],
+      "thumbnail": "https://drive.google.com/uc?id=1jC3hY59SbzkvrwenFENWXVA2RJDxh-4D&export=download",
+      "images": [
+        "https://drive.google.com/uc?id=1jC3hY59SbzkvrwenFENWXVA2RJDxh-4D&export=download",
+        "https://i.dummyjson.com/data/products/3/2.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Campera sport",
+      "description": "Campera para disfrutar en todo momento",
+      "price": 35,
+      "discountPercentage": 8,
+      "rating": 4.1,
+      "stock": 200,
+      "brand": "SPORTIFY",
+      "category2": "niños2",
+      "categories": "Camperas",
+      "category": "Camperas",
+      "colors": ["Negro", "Gris"],
+      "thumbnail": "https://drive.google.com/uc?id=1ND0bR9gE0p38WaakLaKw4jssT0rp_r9_&export=download",
+      "images": [
+        "https://drive.google.com/uc?id=1ND0bR9gE0p38WaakLaKw4jssT0rp_r9_&export=download",
+        "https://i.dummyjson.com/data/products/4/2.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Vestido coqueta",
+      "description": "Elegante y llamativa, seras el centro de tus amistades",
+      "price": 25,
+      "discountPercentage": 5,
+      "rating": 4.0,
+      "stock": 150,
+      "brand": "CASUALLOOK",
+      "category2": "niñas2",
+      "categories": "Vestidos",
+      "category": "Vestidos",
+      "colors": ["Beige", "Blanco"],
+      "thumbnail": "https://drive.google.com/uc?id=1BBGwgLp8ON0he-N9pbmQdChpfOH3YHuq&export=download",
+      "images": [
+        "https://drive.google.com/uc?id=1BBGwgLp8ON0he-N9pbmQdChpfOH3YHuq&export=download",
+        "https://i.dummyjson.com/data/products/5/2.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Campera jean",
+      "description": "Comodos y con stretch permitiendo su uso en el día a día",
+      "price": 20,
+      "discountPercentage": 10,
+      "rating": 4.2,
+      "stock": 180,
+      "brand": "ATHLETA",
+      "category2": "popular2",
+      "categories": "Pantalones",
+      "category": "Camperas",
+      "colors": ["Blanco", "Rosa"],
+      "thumbnail": "https://drive.google.com/uc?id=1uAR5FNK9WIUKAkbcMNGdeWN9hWdY719V&export=download",
+      "images": [
+        "https://drive.google.com/uc?id=1uAR5FNK9WIUKAkbcMNGdeWN9hWdY719V&export=download",
+        "https://i.dummyjson.com/data/products/6/2.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Polo fachero",
+      "description": "Polo para un encuentro casual entre amigos o de entrecasa",
+      "price": 60,
+      "discountPercentage": 18,
+      "rating": 4.6,
+      "stock": 90,
+      "brand": "DENIMPRO",
+      "category2": "niños2",
+      "categories": "Polos",
+      "category": "Polos",
+      "colors": ["Azul Oscuro", "Negro"],
+      "thumbnail": "https://drive.google.com/uc?id=1uWmOdYT3h8PICsieXR8sD6r2u9CdIVoc&export=download",
+      "images": [
+        "https://drive.google.com/uc?id=1uWmOdYT3h8PICsieXR8sD6r2u9CdIVoc&export=download",
+        "https://i.dummyjson.com/data/products/7/2.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Remera summer",
+      "description": "Divertida y con estampa",
+      "price": 50,
+      "discountPercentage": 9,
+      "rating": 4.4,
+      "stock": 110,
+      "brand": "FITSTYLE",
+      "category2": "niñas2",
+      "categories": "Remeras",
+      "category": "Remeras",
+      "colors": ["Rojo", "Rosa"],
+      "thumbnail": "https://drive.google.com/uc?id=1wnG9WipB_3hZh266dNYzfeW9_-oLyLRH&export=download",
+      "images": [
+        "https://drive.google.com/uc?id=1wnG9WipB_3hZh266dNYzfeW9_-oLyLRH&export=download",
+        "https://i.dummyjson.com/data/products/8/2.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Remera limpia",
+      "description": "Simple y minimalista, ¡Elegi el color que prefieras!",
+      "price": 30,
+      "discountPercentage": 7,
+      "rating": 4.3,
+      "stock": 140,
+      "brand": "RELAXWEAR",
+      "category2": "popular2",
+      "categories": "Remeras",
+      "category": "Remeras",
+      "colors": ["Gris", "Verde"],
+      "thumbnail": "https://drive.google.com/uc?id=14WnD1cD8DXH78jI3z2wxtMT7q4UsLiWo&export=download",
+      "images": [
+        "https://drive.google.com/uc?id=14WnD1cD8DXH78jI3z2wxtMT7q4UsLiWo&export=download",
+        "https://i.dummyjson.com/data/products/9/2.jpg"
+      ]
+    }
+  ]
+
