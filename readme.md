@@ -1,6 +1,3 @@
-# Link de APK
-https://drive.google.com/file/d/1JLC7SBVp8j0ccipMVylmpJyMkhFgY0tZ/view?usp=sharing
-
 # E-Commerce App - React Native
 
 Una aplicación de comercio electrónico para venta de ropa de niños, desarrollada con React Native que ofrece una experiencia de compra completa y fácil de usar.
